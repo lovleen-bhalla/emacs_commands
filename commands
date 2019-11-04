@@ -1,0 +1,42 @@
+File:
+-----
+C-x C-f	 Find a file
+C-x C-s	 Save the file
+
+Buffers:
+--------
+C-x C-b list buffers
+C-x b	now
+
+Split window M-x split-window command
+
+Simple cursor moving command:
+-----------------------------
+C-f	Move forward a character
+C-b 	Move backward a character
+
+M-f 	Move forward a word
+M-b 	Move backward a word
+
+C-n 	Move to next line
+C-p 	Move to previous line
+
+C-a 	Move to beginning of line
+C-e 	Move to end of line
+
+M-a 	Move back to beginning of sentence
+M-e 	Move forward to end of sentence
+
+Deleting text:
+--------------
+C-d	Delete the next character after the cursor
+
+M-<DEL> kill the word immediately before the cursor
+M-d 	Kill the next word after the cursor
+
+C-k	Kill from the cursor position to end of line
+M-k	Kill to the end of current sentence
+C-w	Kill all the text between cursor positions.
+Undo:
+-----
+C-/	Undo the most recent command

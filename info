@@ -1,0 +1,18 @@
+h	Invoke the info tutorial
+q	Quit info: reselect previously selected buffer
+n,p 	Move to next and previous node repectively
+^	Move up from this node
+d	Go to the info directory node
+<	Go to top node of this file
+>	Go to final node in this file
+TAB	Move cursor to next menu item
+f	Follow a cross reference
+l	Move back in history
+r	Move forward in history
+L	Go to menu of visited nodes
+T	Go to table of contents of current info file
+
+Moving within a Node:
+--------------------
+b	Go to beginning of the node
+SPC	Scroll the node
